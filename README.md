@@ -7,6 +7,7 @@ Django CRM is a web-based customer relationship management system built using Dj
 ✅ User authentication (Login, Logout)  
 ✅ Customer & Lead management  
 ✅ Dashboard 
+
 ✅ Role-based access control  
 
 ## Technologies Used
