@@ -19,6 +19,9 @@ Django CRM is a web-based customer relationship management system built using Dj
 
 ### Prerequisites
 Ensure you have Python (>= 3.8) and pip installed.
+Django
+Django REST Framework
+Any other necessary dependencies
 
 ### 1. Clone the Repository
 ```sh
