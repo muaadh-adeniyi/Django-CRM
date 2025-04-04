@@ -22,7 +22,7 @@ Ensure you have Python (>= 3.8) and pip installed.
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/django-crm.git
+git clone https://github.com/muaadh-adeniyi/Django-CRM.git
 cd django-crm
 ```
 
